@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="start">Start</string>
+    <string name="objective">Objective\:</string>
+    <string name="reset">Reset</string>
+    <string name="playersTurn">"It\'\s your turn</string>
+    <string name="aiTurn">Its the AI\'\s turn</string>
+    <string name="whatName">What\'\s your name?</string>
+    <string name="tutorial">The objective of Tic Tac Toe is to get three in a row. You play on a three by three game board. The first player is known as X and the second is O. Players alternate placing Xs and Os on the game board until either opponent has three in a row or all nine squares are filled. </string>
+</resources>
